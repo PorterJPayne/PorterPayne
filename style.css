@@ -1,0 +1,10 @@
+.header-main {
+    width: 100vw;
+    height: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 4x solid rgb(74, 96, 209);
+    background-color: rgb(170, 202, 230);
+}
