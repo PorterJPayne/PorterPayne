@@ -33,6 +33,7 @@
 #home-main-body {
     width: 100vw;
     display: flex;
+    gap: 5%;
 }
 
 #home-content {
@@ -41,6 +42,7 @@
     display: grid;
     grid-template-columns: 2fr 1fr;
     grid-template-rows: repeat(4, 1fr);
+    border: 1px solid red;
 }
 
 #latest-blog {
