@@ -17,3 +17,12 @@
     color: rgb(47, 46, 49);
     border-radius: 0%;
 }
+
+.footer-main {
+    width: 100vw;
+    height: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
