@@ -39,7 +39,9 @@
 #home-content {
     width: 80vw;
     height: 75vh;
+    margin: 15px;
     display: grid;
+    gap: 15px;
     grid-template-columns: 2fr 1fr;
     grid-template-rows: repeat(4, 1fr);
     border: 1px solid red;
