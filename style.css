@@ -12,7 +12,7 @@
     margin: 0;
 }
 
-#side-bar {
+#tool-bar {
     height: 100%;
     width: 12vw;
     border: 1px solid black;
@@ -26,7 +26,7 @@
 
 .sidebar-button {
     border: none;
-    color: rgb(47, 46, 49);
+    color: rgb(107, 107, 107);
     border-radius: 0%;
 }
 
