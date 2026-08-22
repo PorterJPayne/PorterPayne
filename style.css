@@ -18,6 +18,11 @@
     border-radius: 0%;
 }
 
+#home-main-body {
+    width: 100vw;
+    display: flex;
+}
+
 #home-content {
     width: 80vw;
     height: 75vh;
