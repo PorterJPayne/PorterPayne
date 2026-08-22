@@ -7,7 +7,7 @@
     align-items: center;
     position: relative;
     z-index: 10;
-    border-bottom: 4px solid rgb(85, 85, 85);
+    border-bottom: 4px solid rgb(42, 42, 42);
     background-color: rgb(39, 39, 39);
     margin: 0;
 }
