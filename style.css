@@ -46,8 +46,9 @@
 }
 
 #latest-blog {
-    width: 90%;
-    height: 90%;
+    width: 100%;
+    height: 100%;
+    padding-right: 15px;
     border: 1px solid black;
     background-color: rgb(50, 50, 50);
     grid-column: span 1;
@@ -55,8 +56,8 @@
 }
 
 #chat {
-    width: 90%;
-    height: 90%;
+    width: 100%;
+    height: 100%;
     border: 1px solid black;
     background-color: rgb(50, 50, 50);
     grid-column: span 1;
@@ -64,8 +65,9 @@
 }
 
 #current-project {
-    width: 90%;
-    height: 90%;
+    width: 100%;
+    height: 100%;
+    padding-bottom: 15px;
     border: 1px solid black;
     background-color: rgb(50, 50, 50);
     grid-column: span 1;
