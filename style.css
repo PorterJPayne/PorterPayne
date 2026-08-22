@@ -13,5 +13,7 @@
 }
 
 .sidebar-button {
-    
+    border: none;
+    color: rgb(47, 46, 49);
+    border-radius: 0%;
 }
