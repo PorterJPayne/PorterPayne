@@ -6,7 +6,7 @@ body {
 
 .header-main {
     width: 100vw;
-    height: 65px;
+    height: 55px;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -16,6 +16,11 @@ body {
     border-bottom: 4px solid rgb(55, 55, 55);
     background-color: rgb(50, 50, 50);
     margin: 0;
+}
+
+#header-title {
+    display: flex;
+    gap: 20px;
 }
 
 #tool-bar-header {
