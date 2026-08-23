@@ -26,7 +26,16 @@ body {
 #tool-bar-header {
     display: flex;
     gap: 20px;
-    margin: 0px 30px;
+    margin: 0px 60px;
+}
+
+.toolbar-button {
+    width: fit-content;
+    height: fit-content;
+    padding: 10px;
+    color: antiquewhite;
+    text-decoration: none;
+    font-family: 'sono', monospace;
 }
 
 #tool-bar {
