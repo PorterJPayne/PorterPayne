@@ -33,6 +33,15 @@ body {
     width: fit-content;
     height: fit-content;
     padding: 10px;
+    color: rgb(185, 174, 160);
+    text-decoration: none;
+    font-family: 'sono', monospace;
+}
+
+.toolbar-button-selected {
+    width: fit-content;
+    height: fit-content;
+    padding: 10px;
     color: antiquewhite;
     text-decoration: none;
     font-family: 'sono', monospace;
@@ -48,12 +57,6 @@ body {
     flex-direction: column;
     justify-content: space-between;
     align-items: left;
-}
-
-.sidebar-button {
-    border: none;
-    color: rgb(107, 107, 107);
-    border-radius: 0%;
 }
 
 #home-main-body {
