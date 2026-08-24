@@ -117,7 +117,7 @@ body {
     justify-content: center;
     align-items: center;
     gap: 30px;
-    margin: 0 auto;
+    margin: 7px auto;
     border: 0px solid blue;
     background-color: rgb(42, 42, 42);
 }
