@@ -6,6 +6,7 @@ body {
     padding: 0px;
     background-color: rgb(37, 37, 37);
     overflow-x: hidden;
+    overscroll-behavior: none;
 }
 
 .header-main {
