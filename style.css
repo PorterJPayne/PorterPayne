@@ -161,7 +161,7 @@ body {
 
 .post {
     width: 100%;
-    height: 8vh;
+    height: 50px;
     background-color: rgb(50, 50, 50);
     border: 2px solid rgb(52, 52, 52);
     text-decoration: none;
