@@ -44,7 +44,7 @@ body {
 .toolbar-button:hover {
     width: fit-content;
     height: fit-content;
-    padding: 8px;
+    padding: 9px 10px;
     color: rgb(196, 185, 170);
     text-decoration: none;
     font-family: 'sono', monospace;
