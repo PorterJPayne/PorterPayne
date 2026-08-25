@@ -2,7 +2,7 @@ body {
     color: antiquewhite;
     margin: 0;
     background-color: rgb(37, 37, 37);
-    overflow-x: hidden;
+    /*overflow-x: hidden;*/
 }
 
 .header-main {
