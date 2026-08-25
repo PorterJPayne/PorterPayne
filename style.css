@@ -147,7 +147,7 @@ body {
 /* Blog */
 
 #blog-posts {
-    height: 90vh;
+    height: fit-content;
     flex-grow: 1;
     overflow-y: auto;
     display: flex;
