@@ -157,6 +157,7 @@ body {
     padding: 15px;
     border: 0px solid pink;
     background-color: rgb(42, 42, 42);
+    box-sizing: border-box;
 }
 
 .post {
