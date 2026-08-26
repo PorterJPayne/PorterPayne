@@ -131,11 +131,11 @@ body {
 }
 
 .footer-main {
-    width: 100%;
+    width: fit fit-content;
     height: fit-content;
     display: flex;
     flex-direction: row;
-    justify-content: center;
+    justify-content: left;
     align-items: center;
     gap: 18px;
     margin: 0 auto;
