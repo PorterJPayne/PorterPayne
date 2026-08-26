@@ -83,7 +83,7 @@ body {
 #home-main-body {
     width: 100vw;
     display: flex;
-    gap: 5%;
+    gap: 15px;
 }
 
 #home-content {
