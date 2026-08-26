@@ -131,7 +131,7 @@ body {
 }
 
 .footer-main {
-    width: 20vw;
+    width: fit-content;
     height: fit-content;
     display: flex;
     flex-direction: row;
@@ -139,7 +139,7 @@ body {
     align-items: center;
     gap: 10px;
     margin: 0px;
-    padding: 10px;
+    padding: 15px;
     border: 0px solid blue;
     background-color: rgb(42, 42, 42);
 }
