@@ -68,7 +68,7 @@ body {
 
 #tool-bar {
     height: fit-content;
-    width: fit-content;
+    width: 100%;
     border: 1px solid black;
     margin: 15px;
     padding: 10px;
@@ -145,7 +145,7 @@ body {
     margin: 0px;
     padding: 0px;
     border: 0px solid blue;
-    background-color: rgb(42, 42, 42);
+    background-color: rgb(38, 38, 38);
 }
 
 /* Blog */
