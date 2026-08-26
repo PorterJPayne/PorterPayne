@@ -137,8 +137,8 @@ body {
     flex-direction: row;
     justify-content: left;
     align-items: center;
-    gap: 18px;
-    margin: 0 auto;
+    gap: 10px;
+    margin: 0 10px;
     padding: 10px 0px;
     border: 0px solid blue;
     background-color: rgb(42, 42, 42);
