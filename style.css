@@ -131,7 +131,7 @@ body {
 }
 
 .footer-main {
-    width: 100%;
+    width: 20vw;
     height: fit-content;
     display: flex;
     flex-direction: row;
