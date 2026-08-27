@@ -1,0 +1,16 @@
+/* Projects */
+
+.project-card {
+    display: flex;
+    flex-direction: column;
+    height: 30vh;
+    width: 100%;
+    margin: 0px;
+    background-color: rgb(30, 30, 30);
+    border: 2px solid rgb(52, 52, 52);
+    box-sizing: border-box;
+}
+
+#proj-web {
+    
+}
