@@ -195,7 +195,7 @@ body {
 .project-card {
     display: flex;
     flex-direction: column;
-    height: 25vh;
+    height: 30vh;
     width: 100%;
     margin: 15px 0px 0px 15px;
     background-color: rgb(30, 30, 30);
