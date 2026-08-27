@@ -155,6 +155,7 @@ body {
 /* Blog */
 
 #blog-posts {
+    display: flex;
     flex-grow: 1;
     align-self: stretch;
     margin: 15px;
