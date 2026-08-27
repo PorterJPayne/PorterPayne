@@ -162,7 +162,8 @@ body {
     gap: 15px;
     overflow-y: auto;
 
-    background-color: rgb(42, 42, 42);
+    border: 2px solid rgb(52, 52, 52);
+    background-color: rgb(30, 30, 30);
     /*align-self: stretch;
     flex-grow: 1;
     overflow-y: auto;
