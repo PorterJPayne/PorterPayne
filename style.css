@@ -155,7 +155,7 @@ body {
 /* Blog */
 
 #blog-posts {
-    /*align-self: stretch;
+    align-self: stretch;
     flex-grow: 1;
     overflow-y: auto;
     display: flex;
@@ -163,7 +163,7 @@ body {
     gap: 15px;
     margin: 15px;
     padding: 15px;
-    border: 0px solid pink;
+    /*border: 0px solid pink;
     background-color: rgb(42, 42, 42);
     box-sizing: border-box;*/
 }
