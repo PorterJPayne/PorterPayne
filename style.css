@@ -156,7 +156,7 @@ body {
 
 #blog-posts {
     display: flex;
-    height: calc(100% - 30px);
+    height: calc(100vh - 88px);
     flex-grow: 1;
     margin: 15px;
     padding: 0px;
