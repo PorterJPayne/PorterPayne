@@ -161,19 +161,9 @@ body {
     padding: 15px;
     gap: 15px;
     overflow-y: auto;
-
+    /*flex-direction: column;
     border: 2px solid rgb(52, 52, 52);
     background-color: rgb(30, 30, 30);
-    /*align-self: stretch;
-    flex-grow: 1;
-    overflow-y: auto;
-    display: flex;
-    flex-direction: column;
-    gap: 15px;
-    margin: 15px;
-    padding: 15px;
-    border: 0px solid pink;
-    background-color: rgb(42, 42, 42);
     box-sizing: border-box;*/
 }
 
