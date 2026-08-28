@@ -78,6 +78,12 @@ body {
     align-items: left;
 }
 
+.link {
+    text-decoration: none; 
+    color: antiquewhite; 
+    font: 'sono', monoscript;
+}
+
 /* Home Page */
 
 #home-main-body {
