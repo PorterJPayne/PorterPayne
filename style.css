@@ -109,14 +109,12 @@ body {
 }
 
 #latest-blog {
-    width: calc(100% - 30px);
+    width: 100%;
     height: calc(100vh - 89px);
     margin: 0px;
     padding: 0px 15px;
     border: 2px solid rgb(52, 52, 52);
     background-color: rgb(30, 30, 30);
-    grid-column: span 1;
-    grid-row: span 4;
     box-sizing: border-box;
     display: flex;
     flex-direction: column;
