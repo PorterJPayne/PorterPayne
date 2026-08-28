@@ -109,7 +109,7 @@ body {
 }
 
 #latest-blog {
-    width: 100%;
+    width: calc(100% - 30px);
     height: calc(100vh - 89px);
     margin: 0px;
     padding: 0px 15px;
