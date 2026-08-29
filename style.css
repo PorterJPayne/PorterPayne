@@ -90,7 +90,7 @@ body {
     width: 100vw;
     display: flex;
     gap: 0px;
-    height: 100%;
+    height: calc(100vh - 59px);
     margin: 0px;
     padding: 0px;
 }
