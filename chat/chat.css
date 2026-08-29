@@ -2,7 +2,8 @@
     text-decoration: none;
     color: antiquewhite;
     width: 90%;
-    margin: 15px;
+    padding: 15px;
     background-color: rgb(42, 42, 42);
-    border: rgb(30, 30, 30);
+    border: 2px solid rgb(30, 30, 30);
+    box-sizing: border-box;
 }
