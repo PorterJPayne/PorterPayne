@@ -96,8 +96,8 @@ body {
 }
 
 #home-content {
-    flex-grow: 1;
-    align-self: stretch;
+    height: calc(100vh - 89px);
+    width: calc(75vw - 45px);
     margin: 15px;
     display: grid;
     gap: 15px;
